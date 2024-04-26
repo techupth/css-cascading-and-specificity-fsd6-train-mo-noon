@@ -13,13 +13,13 @@ button {
 }
 
 .ex-btn-warning {
-  color: white;
   background-color: crimson;
   border: 2px solid darkgreen;
+  color: white;
 }
 
 .ex-btn-success {
-  color: white;
   background-color: seagreen;
   border: 2px solid green;
+  color: white;
 }
